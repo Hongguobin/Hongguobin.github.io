@@ -178,8 +178,8 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br/>SYSU17级在读<br/>计科超算方向<br/>永远喜欢水野爱<br/>田宫例四驱车<br/>ASC # 头像背后的信息
+    img: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578654716012&di=cc4e610b87102a8f898d527a19a6362a&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201712%2F07%2F20171207160905_QaHz3.jpeg # 头像的地址
+    info: <br/>在线搬砖生<br/>Web前端方向<br/>前端技术<br/>前端<br/>ASC # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
     - title: rss
