@@ -1,18 +1,16 @@
 ---
 layout: index
-title: 星合の空
+title: 前端の少主
 ---
+
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Phone: **+86 18813790700**
 - E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **942759535**
-- Blog: **<https://wu-kan.github.io>**
+  - **1304098549@qq.com**
+- WeChat: **A13924480113**
+- QQ: **1304098549**
+- Blog: **<https://hongguobin.github.io/>**
 
 ## Education
 
