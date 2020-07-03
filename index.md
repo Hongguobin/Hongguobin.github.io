@@ -1,6 +1,6 @@
 ---
 layout: index
-title: 前端の少主
+title: GB_Soul
 ---
 
 ## Contact
